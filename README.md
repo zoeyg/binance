@@ -1,2 +1,3 @@
 # binance
-A wrapper for the Binance REST and WebSocket APIs. Also beautifies responses
+
+I'm no longer maintaining this library.  The repository is now at https://github.com/tiagosiebler/binance.
